@@ -1,4 +1,4 @@
-# [TypeWeather(Link)](https://gabrielingnau.github.io/TypeWeather/#/dashboard)
+# [TypeWeather(Link)](https://gabrielingnau.github.io/TypeWeather)
 
 TypeWeather é uma aplicação web para consultar dados do tempo e previsões meteorológicas.
 
